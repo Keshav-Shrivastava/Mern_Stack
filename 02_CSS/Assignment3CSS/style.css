@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    font-family: "Times New Roman", serif;
+    margin: 8px;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+}
+
+.heading2{
+    margin-top: 30px;
+}
+
+h2{
+    color: limegreen;
+    font-size: 38px;
+    font-style: italic;
+}
+
+ol{
+    font-size: 22px;
+}
+
+.spacing{
+    color: brown;
+    font-size: 22px;
+    letter-spacing: 8px;
+}
+
+.red{
+    color: brown;
+    font-size: 22px;
+}
+
+.small{
+    color: brown;
+    font-size: 12px;
+}
+
+.italic{
+    color: brown;
+    font-size: 22px;
+    font-style: italic;
+}
+
+mark{
+    background: yellow;
+    font-weight: bold;
+}
+
+.button{
+    display: inline-block;
+    margin-top: 10px;
+    background: yellow;
+    border: 2px solid goldenrod;
+    color: brown;
+    text-decoration: none;
+    padding: 3px 6px;
+    font-weight: bold;
+} 
