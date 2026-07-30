@@ -1,0 +1,12 @@
+h1{
+    background-color: orange;
+
+    border: 5px solid rgb(218, 22, 22);
+    padding: 11px ;
+    margin: 10px;
+    
+}
+
+span{
+    color: blue;
+}
