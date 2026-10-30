@@ -1,0 +1,41 @@
+#first{
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+}
+
+#second{
+    width: 80px;
+    height: 75px;
+    background-color: rgb(6, 112, 241);
+    position: absolute;
+}
+
+#third{
+    width: 170px;
+    height: 75px;
+    background-color: rgb(6, 112, 241);
+    position: absolute;
+    left: 130px;
+    
+}
+
+#forth{
+    width: 80px;
+    height: 75px;
+    background-color: rgb(6, 112, 241);
+    position: absolute;
+    top: 125px;
+    
+}
+
+#fifth{
+    width: 170px;
+    height: 75px;
+    background-color: rgb(6, 112, 241);
+    position: absolute;
+    left: 130px;
+    top: 125px;
+    
+}
